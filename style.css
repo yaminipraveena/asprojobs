@@ -1193,7 +1193,7 @@ bottom: 45.94%;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 35px;
+font-size: 30px;
 line-height: 41px;
 
 color: #FFFFFF;
@@ -1205,7 +1205,7 @@ text-decoration:none;
     position: absolute;
     left: 0.09%;
     right: 67.59%;
-    top:56.94%;
+    top:52.94%;
     bottom: 45.94%;
     display: inline-block;
     white-space: nowrap;
@@ -1221,7 +1221,7 @@ text-decoration:none;
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 41px;
     
     color: #FFFFFF;
@@ -1232,7 +1232,7 @@ text-decoration:none;
         position: absolute;
         left: 16.09%;
         right: 67.59%;
-        top:71.94%;
+        top:64.94%;
         bottom: 45.94%;
         display: inline-block;
         white-space: nowrap;
@@ -1296,8 +1296,8 @@ font-size:48px;
    }
     form{
         position: absolute;
-left: 51.38%;
-right: 0%;
+left: 30.38%;
+right: -19%;
 top: 32.31%;
 bottom: 1.99%;
     }
@@ -1311,8 +1311,8 @@ bottom: 1.99%;
         margin-bottom: 16px;
         resize: vertical;
         margin-left: 15.38%;
-        left: 51.38%;
-right: 0%;
+        left: 30.38%;
+right: -19%;
 top: 32.31%;
 bottom: 59.57%;
 
