@@ -140,7 +140,7 @@ transform: rotate(0.3deg);
     left:-1px;
     top:98px;
     background:rgba(33,0,107,0.63);
-    background-image:url(images/home.png) ;
+    background-image:url(home.png) ;
      
     border:1px solid #000000;
     box-sizing:border-box;
